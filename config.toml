@@ -1,3 +1,8 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://khilanshah.github.io/blog/'
+languageCode = 'en-gb'
+title = 'TutorKhilan - Helping students and their parents to succeed'
+theme = 'hermit-v2'
+
+[params]
+	author = "Khilan Shah"
+	description = "A blog about teaching and learning Mathematics and Engineering"
